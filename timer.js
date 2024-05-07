@@ -22,6 +22,7 @@ function start(){
             }
         }, 11);
         start_btn.disabled = true;
+        user_input.disabled = true;
     }
     else{
         alert("enter number");
