@@ -21,8 +21,10 @@ function start(){
                 number_html.innerText = runn;
             }
         }, 11);
-        start_btn.disabled = true;
         user_input.disabled = true;
+
+        start_btn.disabled = true;
+        // user_input.disabled = true;
     }
     else{
         alert("enter number");
