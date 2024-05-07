@@ -24,7 +24,7 @@ function start(){
         user_input.disabled = true;
 
         start_btn.disabled = true;
-        // user_input.disabled = true;
+    
     }
     else{
         alert("enter number");
